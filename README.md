@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 # 💫 About Me:
 A Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</br>***Please go through my [profile](https://github.com/sabareh) and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can [mail me](https://sabarevictor@gmail.com) regarding any issue***
 
@@ -28,5 +29,5 @@ A Data-Science enthusiast who is passionate about Mathematics, Pythonic programm
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sabareh&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
