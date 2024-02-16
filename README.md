@@ -1,4 +1,3 @@
-<div style="text-align: center;">
 # 💫 About Me:
 A Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</br>***Please go through my [profile](https://github.com/sabareh) and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can [mail me](https://sabarevictor@gmail.com) regarding any issue***
 
@@ -17,8 +16,9 @@ A Data-Science enthusiast who is passionate about Mathematics, Pythonic programm
 ![](https://github-profile-trophy.vercel.app/?username=sabareh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+<div style="text-align: center;">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sabareh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
