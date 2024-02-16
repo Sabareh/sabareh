@@ -1,5 +1,6 @@
 # 💫 About Me:
-A Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.<br>Please go through my profile and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can mail me regarding any issue<br>
+A Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.
+Please go through my [profile](https://github.com/sabareh) and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can mail me regarding any issue<br>
 
 
 ## 🌐 Socials:
