@@ -21,7 +21,7 @@ A Data-Science enthusiast who is passionate about Mathematics, Pythonic programm
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sabareh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31k6dh4casslz326hj6czfmx54xa&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31k6dh4casslz326hj6czfmx54xa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6dh4casslz326hj6czfmx54xa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k6dh4casslz326hj6czfmx54xa&redirect=true)]
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
