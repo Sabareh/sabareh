@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 A Data Geek passionate about Data engineering, and open source. I love to learn and contribute in any and every possible way.</br>***Please go through my [profile](https://github.com/sabareh) and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can [mail me](https://sabarevictor@gmail.com) regarding any issue***
 
 
